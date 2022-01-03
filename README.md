@@ -3,7 +3,7 @@
     Exercício desenvolvido para o componente de Programação Web I referente ao curso de 
     Desenvolvimento de Sistemas da Etec - Escola Técnica Estadual em Março de 2019.
 
-#### OBJETIVO
+#### 📝 OBJETIVO
     Construir um formulário idêntico a imagem passada pela professora.
     
 #### 📌 FERRAMENTAS
